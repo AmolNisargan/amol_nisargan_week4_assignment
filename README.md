@@ -1,4 +1,4 @@
----
+
 
 # Java Collections and Exception Handling
 
@@ -12,7 +12,6 @@ This repository contains programs demonstrating the use of Java Collections fram
 - [How to Run](#how-to-run)
 - [Technologies Used](#technologies-used)
 
----
 
 ## Overview
 This project explores:
